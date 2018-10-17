@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="105311" started-at="2018-10-14T18:03:32Z" finished-at="2018-10-14T18:05:17Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="105311" started-at="2018-10-14T18:03:32Z" finished-at="2018-10-14T18:05:17Z">
+      <class name="demo.LearnTestNG">
+        <test-method status="PASS" signature="setup()[pri:0, instance:demo.LearnTestNG@1efef64]" name="setup" is-config="true" duration-ms="272" started-at="2018-10-14T23:33:32Z" finished-at="2018-10-14T23:33:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="execution()[pri:1, instance:demo.LearnTestNG@1efef64]" name="execution" duration-ms="103998" started-at="2018-10-14T23:33:32Z" finished-at="2018-10-14T23:35:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- execution -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:demo.LearnTestNG@1efef64]" name="cleanUp" is-config="true" duration-ms="977" started-at="2018-10-14T23:35:16Z" finished-at="2018-10-14T23:35:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+      </class> <!-- demo.LearnTestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

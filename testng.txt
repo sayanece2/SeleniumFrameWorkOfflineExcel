@@ -1,0 +1,1 @@
+java -cp D:\MyworkSpace\eclipse\plugins\org.testng.eclipse_6.9.13.201609291640\lib\*;D:\MyworkSpace\LearnTestNG\bin org.testng.TestNG testng.xml
